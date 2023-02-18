@@ -1,2 +1,2 @@
 # testrepo
-For Coursera course
+For Coursera course of IBM
